@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#ff000000</color>
+    <color name="black2">#a0000000</color>
+    <color name="red">#ff0000</color>
+    <color name="gray">#ff959183</color>
+    <color name="green">#008f00</color>
+    <color name="orange">#FFA500</color>
+    <color name="ident">#8f8f8f</color>
+    <color name="divide">#DBDBDB</color>
+    <color name="account_divide">#d9d9d9</color>
+    <color name="shallow_yellow">#fac128</color>
+    <color name="transparent">#00000000</color>
+    <color name="pull_to_refresh_text_color">#7c7c7c</color>
+    <color name="error_item_color">#F6EBE6</color>
+    <color name="common_bg">#fcfcfc</color>
+    <!-- <color name="title_bg">#0EC3CC</color> -->
+    <color name="backgroud_color">#ebedf0</color>
+    <color name="text_gray">#656565</color>
+    <color name="text_green">#00a84d</color>
+    <color name="text_default">#BAD2EE</color>
+    <color name="text_blue">#199216</color>
+    <color name="text_black">#343e48</color>
+    <color name="line_color">#bdbdbd</color>
+    <!-- Android standard ICS color -->
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="btn_gray_normal">#c0c0c0</color>
+    <color name="btn_gray_pressed_status">#b5b5b6</color>
+    <color name="btn_blue_normal">#1e90ff</color>
+    <color name="btn_blue_pressed">#0066FF</color>
+    <color name="btn_logout_normal">#d33f3f</color>
+    <color name="btn_logout_pressed">#DA5A4D</color>
+    <color name="lightgreen">#99CC33</color>
+    <color name="item_pressed_color">#d7d7d7</color>
+    <color name="phone_left_select">#ff36434c</color>
+    <color name="phone_left_normal">#ff3c4a53</color>
+    <color name="grid_state_pressed">#1Affffff</color>
+    <color name="grid_state_focused">#80000000</color>
+    <color name="bottom_text_color_normal">#ffffff</color>
+    <color name="btn_pressed_green_solid">#B6DA53</color>
+    <color name="tran_15">#0e000000</color>
+    <color name="modphoto_bottom_bg">#f3f3f3</color>
+    <color name="goods_text">#353535</color>
+    <color name="comment_text">#004391</color>
+    <color name="text_highgray">#999999</color>
+    <color name="super_color">#FFBA25</color>
+    <color name="manager_color">#82D053</color>
+    <color name="depart_color">#808080</color>
+    <color name="new_bg_color">#8BC34A</color>
+    <color name="new_bg_color_press">#A3CC74</color>
+    <color name="new_btn_color">#609ddc</color>
+    <color name="new_btn_color_press">#87B0DA</color>
+    <color name="check_version_title">#00abed</color>
+
+</resources>
